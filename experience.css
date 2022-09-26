@@ -86,7 +86,7 @@ nav img{
 
 }
 
-.more-btn{
+/*.more-btn{
     display: inline-block;
     text-decoration: none;
     color: #fff;
@@ -104,7 +104,7 @@ nav img{
     background: #f44336;
     transition: 1s;
 
-}
+}*/
 
 nav .fa{
     display: none;
