@@ -71,7 +71,8 @@ nav img{
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    
+    border: 1px solid white;
+    background: white;
 }
 
 .text-box h1{
